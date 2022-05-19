@@ -1,0 +1,44 @@
+@media only screen and (max-width: 575.9px) {
+    .container{
+        width: 90%;
+    }
+    .col-sm-10{
+        width: 83%;
+    }
+    .col-sm-12{
+        width: 100%;
+    }
+    .col-sm-8{
+        width: 66%;
+    }
+    .col-sm-4{
+        width:34%
+    }
+    .myNavbar .navbar-header{
+        width: 100%;
+    }
+    .leaf-chain-lg{
+        width: 100%;
+    }
+    .col-sm-2{
+        width: 17%;
+    }
+    .col-sm-2>button{
+        margin-left: 20%;
+    }
+    .d-sm-none{
+        display: none
+    }
+    .text-sm-center{
+        text-align: center;
+    }
+    .mb-sm-3{
+        margin-bottom: 10%;
+    }
+    .mt-sm-5{
+        margin-top: 15%;
+    }
+    .p-sm-0{
+        padding: 0% !important;
+    }
+}
